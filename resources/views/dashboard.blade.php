@@ -9,17 +9,17 @@
 
     <div class="bg-white p-6 rounded-lg shadow">
         <h3 class="text-gray-500">Total Asset</h3>
-        <p class="text-3xl font-bold">128</p>
+        <p class="text-3xl font-bold"></p>
     </div>
 
     <div class="bg-white p-6 rounded-lg shadow">
         <h3 class="text-gray-500">User Aktif</h3>
-        <p class="text-3xl font-bold">24</p>
+        <p class="text-3xl font-bold"></p>
     </div>
 
     <div class="bg-white p-6 rounded-lg shadow">
         <h3 class="text-gray-500">Laporan Bulan Ini</h3>
-        <p class="text-3xl font-bold">17</p>
+        <p class="text-3xl font-bold"></p>
     </div>
 
 </div>
